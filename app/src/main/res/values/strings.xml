@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicStudio</string>
+    <string name="company_name">Resonance\nMusic Studio</string>
+    <string name="address">232 Funkalicious Central Drive\nChicago, IL 60622</string>
+    <string name="phone">(312) Beats4U</string>
+    <string name="email">info@resonancestudios.com</string>
+    <string name="website"><a href="www.resonance-studio.com">www.resonance-studio.com</a></string>
+</resources>
